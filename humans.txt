@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nico Ekkart -- Leading developer -- @nicoekkart
 
 # THANKS
 
