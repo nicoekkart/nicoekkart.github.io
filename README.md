@@ -1,4 +1,4 @@
 nicoekkart.github.io
 ====================
 
-Nico Ekkart's site
+Nico Ekkart's public site
